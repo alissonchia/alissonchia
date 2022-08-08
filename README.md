@@ -1,10 +1,8 @@
-- Olá sou alissonchia
-- 👀 estou iniciando...
-- 🌱é apenas testes...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# *SOBRE MIM*
+  #meus estudos
+- :+1:Olá sou @alissonchia
+- 👀 estou iniciando um novo curso 
+- 🌱é apenas testes.
+- ciado para testes
+- meu email de contato é alisson.chiapetti@escola.pr.gov.br
 
-<!---
-alissonchia/alissonchia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
